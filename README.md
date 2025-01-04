@@ -79,6 +79,7 @@ To get started, either clone this repository, or if you stay within github, use 
 ```
 └── Main directory
     ├── RobotLife
+    ├── LICENSE
     └── readme.md
 ```
 
