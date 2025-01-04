@@ -7,7 +7,7 @@ If you use *RobotLife* and our results on **Visualization in motion** in new pro
 
 *RobotLife* is released under [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/), to cite *RobotLife* as a single video game: 
 
-* [*RobotLife*], created by AVIZ, Inria on 2022.
+* *RobotLife*, created by AVIZ, Inria, in 2022.
 
     ```
       @misc{RobotLife,
