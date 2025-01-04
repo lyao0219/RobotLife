@@ -1,7 +1,7 @@
 # Visualization in motion - *RobotLife*
 
-This is a repository for original codes of the video games, *RobotLife*, used as a testbed in the paper ["User Experience of Visualizations in Motion: A Case Study and Design Considerations"]([https://doi.org/10.1109/TVCG.2023.3341990](https://doi.org/10.1109/TVCG.2024.3456319), published at [IEEE Transactions of Visualization and Computer Graphics](https://www.computer.org/csdl/journal/tg), and was presented at [IEEE Visualization 2024](https://ieeevis.org/year/2024/welcome).
-*RobotLife* allows players to play a first-person shooting game with different visualizations in motion embedded.
+This is a repository for original codes of the video games, *RobotLife*, used as a testbed in the paper ["User Experience of Visualizations in Motion: A Case Study and Design Considerations"](https://doi.org/10.1109/TVCG.2024.3456319), published at [IEEE Transactions of Visualization and Computer Graphics](https://www.computer.org/csdl/journal/tg) and presented at [IEEE Visualization 2024](https://ieeevis.org/year/2024/welcome).
+*RobotLife* allows players to play a first-person shooting game with different visualizations in motion.
 
 If you use *RobotLife* and our results on **Visualization in motion** in new projects or use it in a different way, we would appreciate a citation:
 
