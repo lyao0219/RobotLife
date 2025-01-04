@@ -83,5 +83,44 @@ To get started, either clone this repository, or if you stay within github, use 
     └── README.md
 ```
 
+*RobotLife* was implemented based on the [Unity FPS template](https://learn.unity.com/project/fps-template).
+You first need to download and install the [Unity Hub](https://unity.com/unity-hub). Next, you open the entire folder "RobotLife" that you obtain here as a project in the Unity Hub.
+Until this step, you should be able to interact with the project.
+
+## Go further
+
+Here, we additionally provide instructions on where you should look if you want to modify the game and the experiment settings.
+
+"FPS" is the main folder containing important things: 
+
+```
+└── InitManager.cs
+    ├── set participants ID
+    ├── call “SceneFlowManager.cs” to initialize the condition list
+    ├── start trial & & create files for recording answers & questionnaires
+
+└── QuestionnaireToggleGroups:
+    ├── get likert answers
+
+└── QuestionnaireManager.cs:
+    ├── set questionnaire’s UI and greetings according to the condition
+
+└── QuestionnaireLikert.cs:
+    ├── send likert answers & update UI
+
+└── TrainingManagers.cs:
+    ├── initialize buttons
+
+└── check answers
+    ├── go to the next training
+    ├── destroy the current one
+
+└── TrainingButton.cs:
+    ├── identify whether the enemy is evil or not
+
+```
+
+
+
 
 
