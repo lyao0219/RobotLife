@@ -67,11 +67,9 @@ To cite the relevant paper presented at [IEEE Visualization 2024](https://ieeevi
         number = {3},
         pages = {1821--1836},
         doi = {10.1109/TVCG.2023.3341990}
+        url={https://github.com/lyao0219/SwimFlow/}
     }
     ```
-*SwimFlow* is currently under improvement. 
-Please find the latest version at https://aviz.gitlabpages.inria.fr/vis-in-motion-swimflow/.
-Please note that such link might not work properly before the latest version is ready for release.
 
 
 ## Getting started
