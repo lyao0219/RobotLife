@@ -84,17 +84,20 @@ To read more on **Visualization in Motion**:
 
 ## Getting started
 
-To get started, either clone this repository, or if you stay within github, use the ''use this template'' function to generate your own version of this repository from which you can then edit. You will see the project hierachgy as follows:
+To get started, either clone this repository or, if you stay within Github, use the ''use this template'' function to generate your own version of this repository, which you can then edit. You will see the project hierarchy as follows:
 
 ```
 └── Main directory
     ├── RobotLife
+        ├── 1-executable version
+        ├── 2-source codes
     ├── LICENSE
     └── README.md
 ```
 
 *RobotLife* was implemented based on the [Unity FPS template](https://learn.unity.com/project/fps-template).
-You first need to download and install the [Unity Hub](https://unity.com/unity-hub). Next, you open the entire folder "RobotLife" that you obtain here as a project in the Unity Hub.
+- To run the program directly (on Windows), please click on the ".exe" file in the "1-executable version".
+- To import/edit the program, you first need to download and install the [Unity Hub](https://unity.com/unity-hub). Next, you open the entire folder "2-source codes" that you obtain here as a project in the Unity Hub.
 Until this step, you should be able to interact with the project.
 
 ## Go further
