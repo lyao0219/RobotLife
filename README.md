@@ -88,9 +88,8 @@ To get started, either clone this repository or, if you stay within Github, use 
 
 ```
 └── Main directory
-    ├── RobotLife
-        ├── 1-executable version
-        ├── 2-source codes
+    ├── 1-executable version
+    ├── 2-source codes
     ├── LICENSE
     └── README.md
 ```
